@@ -1,3 +1,6 @@
 #+TITLE: Oct 8th, 2020
 
-** 
+** Created a repository in [[Github]] just for this.
+** I will be trying to use this instead of [[Roam Research]]
+**
+**
