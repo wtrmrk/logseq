@@ -1,4 +1,4 @@
 #+TITLE: Mar 23rd, 2021
 
 ** [[Daily Logs]]
-*** [[logseq]] looks better now.
+*** [[logseq]] looks better now. It has a nice sidebar.
