@@ -2,3 +2,4 @@
 
 ** [[Daily Logs]]
 *** [[logseq]] looks better now. It has a nice sidebar.
+***
