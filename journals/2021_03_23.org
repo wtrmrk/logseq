@@ -2,4 +2,5 @@
 
 ** [[Daily Logs]]
 *** [[logseq]] looks better now. It has a nice sidebar.
-***
+**** This is a better option than [[Roam Research]] as this is free.
+****
