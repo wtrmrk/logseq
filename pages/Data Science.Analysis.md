@@ -1,0 +1,31 @@
+- Venn Diagram of data science
+  collapsed:: true
+	- Combination of coding,
+		- gather, prepare data
+	- domain knowledge,
+		- expertise in field
+	- and statistics
+	- I feel there's a niche out there in data science that I can fill in.
+- Roles in data science
+  collapsed:: true
+	- Engineers
+		- back end hardware, software
+		- database administrator
+	- Big data
+		- computer science, math, and machine learning
+	- Researchers
+		- Domain specific research, more stats
+	- Analyst
+		- web analytics
+		- sql
+	- Business
+		- frames business relevant questions
+	- Entrepreneurs
+		- startups
+	-
+	-
+- Tools for data science
+	- R
+	- SQL
+	- Python
+	- Excel
