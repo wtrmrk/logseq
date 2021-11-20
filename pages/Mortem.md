@@ -1,0 +1,6 @@
+- [[Nov 20th, 2021]]
+	- 11:21 Good morning.
+	- I am trying to see if I can turn this to something like [[Dynalist]]
+	- I won't be using the daily notes but instead I'll just write here in what I call Matrix. I'll probably change the name too.
+	- One advantage here is that the notes will be saved in [[Github]] and I can just clone it later in my laptop.
+	-
