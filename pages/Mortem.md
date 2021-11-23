@@ -29,5 +29,6 @@
 	- TODO Visit mother's lot in Bataan #family
 	- TODO Funds for lot measurement and land titling. #family #finance
 	- Downloaded [[Spiderman 2]]
--
+- [[Nov 24th, 2021]]
+	-
 -
