@@ -3,4 +3,19 @@
 	- I am trying to see if I can turn this to something like [[Dynalist]]
 	- I won't be using the daily notes but instead I'll just write here in what I call Matrix. I'll probably change the name too.
 	- One advantage here is that the notes will be saved in [[Github]] and I can just clone it later in my laptop.
+- [[Nov 22nd, 2021]]
+	- 10.45 We we're busy yesterday. We bought some curtain and we will try to install them today.
+	- I am little slow today.
+	- It seems my father joined a BBM motorcade.
+	- 11.27 I am currently downloading
+		- [[Cowboy Bebop]] #tvshow
+		- [[Black Sails]] #tvshow
+- [[Nov 23rd, 2021]]
+	- 06.47 Good morning.
+	- ^^“Was this the inevitable end? Were you just a passenger? Did your life just happen to you, or did you choose it?” - William, [[Westworld]]^^ #quotes
+	- I am happy with how the curtain room divider turned out. We just need a couple more things and the house will be homey.
+	- Sofas is a priority. Something to sit on during the day and not stay on the bed all the time.
+	- 07:05 I really am liking [[Logseq]] right now. I think I'll use this instead of [[Dynalist]].
+	- I need to complete a lot of records for yesterday's production.
 	-
+-
