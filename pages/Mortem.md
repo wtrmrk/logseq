@@ -17,5 +17,10 @@
 	- Sofas is a priority. Something to sit on during the day and not stay on the bed all the time.
 	- 07:05 I really am liking [[Logseq]] right now. I think I'll use this instead of [[Dynalist]].
 	- I need to complete a lot of records for yesterday's production.
+		- Changed the theme. I am liking the brown color.
+	- 10:45 Feeling good listening to a funky songs.
+	- So far I finished ninety records. Not bad really. considering I only worked half day yesterday.
+	- 11:55 Finished one hundred ten records for yesterday.
+	- 15:05 Took a nap. I just got up. Pretty good sleep though.
 	-
 -
