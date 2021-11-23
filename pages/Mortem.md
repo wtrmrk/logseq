@@ -22,5 +22,12 @@
 	- So far I finished ninety records. Not bad really. considering I only worked half day yesterday.
 	- 11:55 Finished one hundred ten records for yesterday.
 	- 15:05 Took a nap. I just got up. Pretty good sleep though.
-	-
+	- I just read a comment in [[Reddit]] that what I am doing right now is just writing ideas/brainstorming and not actual note taking/learning.
+		- I think he has a point as I am pretty much just logging my thoughts. As of right now there's not much value in this.
+	- [[Angel]]  bought curtains and wallpaper in Lazada. Next we will try to buy a sofa and either rugs or linoleum.
+		- We are trying to be cost efficient in trying to furnish our home.
+	- TODO Visit mother's lot in Bataan #family
+	- TODO Funds for lot measurement and land titling. #family #finance
+	- Downloaded [[Spiderman 2]]
+-
 -
