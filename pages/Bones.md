@@ -30,5 +30,6 @@
 	- TODO Funds for lot measurement and land titling. #family #finance
 	- Downloaded [[Spiderman 2]]
 - [[Nov 24th, 2021]]
-	-
+	- 07:36 I woke up a little late again this morning. I had a good sleep but I woke up earlier with dream of something I am not sure happened in real life.
+		- I keep having dreams like this.
 -
