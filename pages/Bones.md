@@ -32,4 +32,7 @@
 - [[Nov 24th, 2021]]
 	- 07:36 I woke up a little late again this morning. I had a good sleep but I woke up earlier with dream of something I am not sure happened in real life.
 		- I keep having dreams like this.
+	- Finished yesterday's production with one hundred fourteen but [[Cons]] qa'ed me this morning and I have not dispatched at least twenty records.
+	- TODO Go home to Pulilan [[Nov 27th, 2021]] #family
 -
+	-
