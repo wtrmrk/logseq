@@ -12,7 +12,7 @@
 		- [[Black Sails]] #tvshow
 - [[Nov 23rd, 2021]]
 	- 06.47 Good morning.
-	- ^^“Was this the inevitable end? Were you just a passenger? Did your life just happen to you, or did you choose it?” - William, [[Westworld]]^^ #quotes
+	- ^^“Was this the inevitable end? Were you just a passenger? Did your life just happen to you, or did you choose it?” - William, [[Westworld]]^^ #quotes #life
 	- I am happy with how the curtain room divider turned out. We just need a couple more things and the house will be homey.
 	- Sofas is a priority. Something to sit on during the day and not stay on the bed all the time.
 	- 07:05 I really am liking [[Logseq]] right now. I think I'll use this instead of [[Dynalist]].
@@ -36,5 +36,9 @@
 	- TODO Go home to Pulilan [[Nov 27th, 2021]] #family
 - [[Nov 25th, 2021]]
 	- 08:19 Good morning.
-	-
+	- Moved the metal shelf and the position of the TV. Let's see how it looks later.
+	- The wallpaper that [[Angel]] ordered was delivery earlier. We will try to install it this afternoon.
+		- 16:30 Angel is now putting masking tape to the gaps and the rivet heads.
+		- It looks like we need to install the wallpaper twice so that the underlying tape won't show.
+		-
 	-
