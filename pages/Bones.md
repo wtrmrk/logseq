@@ -40,5 +40,16 @@
 	- The wallpaper that [[Angel]] ordered was delivery earlier. We will try to install it this afternoon.
 		- 16:30 Angel is now putting masking tape to the gaps and the rivet heads.
 		- It looks like we need to install the wallpaper twice so that the underlying tape won't show.
-		-
+- [[Nov 26th, 2021]]
+	- It looks like [[Logseq]] will deprecating [[Github]] feature. I will need to look to a different application. That sucks.
+	- Transferred my [[Logseq]] Matrix into [[Roam Research]].
+	- I have not read anything this past few months. I have a lot of backlog of [[Books]] to read.
+	- Installed [[Lux]], a dark mode custom css theme.
+	- ^^One of the theories that gives great insight on the first question—how to be sure we find happiness in our careers—is from [[Frederick Herzberg]], who asserts that the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements.^^ #quotes #career
+		- from [[How Will You Measure Your Life]].
+	- We got curtains from [[Lazada]].
+		- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
+	- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
 	-
+	-
+-
