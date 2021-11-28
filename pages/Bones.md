@@ -50,6 +50,24 @@
 	- We got curtains from [[Lazada]].
 		- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
 	- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
+- [[November 27th, 2021]]
+	- DONE Visit Pulilan #family
+	- Transferred my [[Logseq]] Matrix into [[Roam Research]].
+	- I have not read anything this past few months. I have a lot of backlog of [[Books]] to read.
+	- Installed [[Lux]], a dark mode custom css theme.
+	- ^^One of the theories that gives great insight on the first question—how to be sure we find happiness in our careers—is from [[Frederick Herzberg]], who asserts that the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements.^^ #quotes #career
+		- from [[How Will You Measure Your Life]].
+	- We got curtains from [[Lazada]].
+		- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
+	- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
+- [[November 28th, 2021]]
+	- 16:41 Good afternoon.
+	- We finally bought a sofa. It will likely be delivered tomorrow. We chose a brown colored sectional sofa. It'll cost nine thousand pesos including the delivery fee.
+		- This is huge as I feel sofa will be used everyday and having one is such a quality of life improvement.
+	- My father has some eye injuries probably due to the ceiling installation. I hope they'get it checked. I gave one thousand pesos. Hope it won't get worse.
+	- We also gave two thousand pesos to Angel's parents.
+	- I feel good. A little sleepy though.
+	- We forgot our external hard drive in Angel's bedroom.
 	-
 	-
 -
