@@ -70,6 +70,15 @@
 	- We forgot our external hard drive in Angel's bedroom.
 - [[Dec 18th, 2021]]
 	- My theme in [[Logseq]] is more beautiful than the one in [[Roam Research]]. It's just sad that the support for [[Github]] will be deprecated. But the desktop application is not ready. It's still in beta. I think I can still continue using this and then just download the Github file and put in the [[Google Drive]] folder.
+	- Found this topic about [[building serendipity]]
+- [[Dec 19th, 2021]]
+	- Good morning.
+	- I woke up late today, it was raining the whole night and it was cold. It's great to stay in the bed a little longer.
+		- We had a great breakfast. [[Angel]] tried cooking pesto. It's kinda good but we forgot the cheese. It would have been better if we use a food processor or a mortar/pestle.
+	- I've been reading the book called [[The Stargazey]] by [[Martha Grimes]].
+		- I've read until the sixth chapter. I've tried reading it a couple of times before but it never clicked but I kinda like it now.
+	- I'll relax today. I'll read a book and watch some vidoes.
+	-
 	-
 	-
 -

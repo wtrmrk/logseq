@@ -1,0 +1,6 @@
+- First heard from a video from [[Ali Abdal]]
+- Idea originated from [[David Perell]].
+- Read this blog [[How to Maximize Serendipity]]
+	-
+-
+-
