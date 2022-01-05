@@ -1,101 +1,106 @@
 - [[2021]]
-	- [[Nov 20th, 2021]]
-	  collapsed:: true
-		- 11:21 Good morning.
-		- I am trying to see if I can turn this to something like [[Dynalist]]
-		- I won't be using the daily notes but instead I'll just write here in what I call Matrix. I'll probably change the name too.
-		- One advantage here is that the notes will be saved in [[Github]] and I can just clone it later in my laptop.
-	- [[Nov 22nd, 2021]]
-	  collapsed:: true
-		- 10.45 We we're busy yesterday. We bought some curtain and we will try to install them today.
-		- I am little slow today.
-		- It seems my father joined a BBM motorcade.
-		- 11.27 I am currently downloading
-			- [[Cowboy Bebop]] #tvshow
-			- [[Black Sails]] #tvshow
-	- [[Nov 23rd, 2021]]
-	  collapsed:: true
-		- 06.47 Good morning.
-		- ^^“Was this the inevitable end? Were you just a passenger? Did your life just happen to you, or did you choose it?” - William, [[Westworld]]^^ #quotes #life
-		- I am happy with how the curtain room divider turned out. We just need a couple more things and the house will be homey.
-		- Sofas is a priority. Something to sit on during the day and not stay on the bed all the time.
-		- 07:05 I really am liking [[Logseq]] right now. I think I'll use this instead of [[Dynalist]].
-		- I need to complete a lot of records for yesterday's production.
-			- Changed the theme. I am liking the brown color.
-		- 10:45 Feeling good listening to a funky songs.
-		- So far I finished ninety records. Not bad really. considering I only worked half day yesterday.
-		- 11:55 Finished one hundred ten records for yesterday.
-		- 15:05 Took a nap. I just got up. Pretty good sleep though.
-		- I just read a comment in [[Reddit]] that what I am doing right now is just writing ideas/brainstorming and not actual note taking/learning.
-			- I think he has a point as I am pretty much just logging my thoughts. As of right now there's not much value in this.
-		- [[Angel]]  bought curtains and wallpaper in Lazada. Next we will try to buy a sofa and either rugs or linoleum.
-			- We are trying to be cost efficient in trying to furnish our home.
-		- TODO Visit mother's lot in Bataan #family
-		- TODO Funds for lot measurement and land titling. #family #finance
-		- Downloaded [[Spiderman 2]]
-	- [[Nov 24th, 2021]]
-	  collapsed:: true
-		- 07:36 I woke up a little late again this morning. I had a good sleep but I woke up earlier with dream of something I am not sure happened in real life.
-			- I keep having dreams like this.
-		- Finished yesterday's production with one hundred fourteen but [[Cons]] qa'ed me this morning and I have not dispatched at least twenty records.
-		- DONE Go home to Pulilan [[Nov 27th, 2021]] #family
-	- [[Nov 25th, 2021]]
-	  collapsed:: true
-		- 08:19 Good morning.
-		- Moved the metal shelf and the position of the TV. Let's see how it looks later.
-		- The wallpaper that [[Angel]] ordered was delivery earlier. We will try to install it this afternoon.
-			- 16:30 Angel is now putting masking tape to the gaps and the rivet heads.
-			- It looks like we need to install the wallpaper twice so that the underlying tape won't show.
-	- [[Nov 26th, 2021]]
-	  collapsed:: true
-		- It looks like [[Logseq]] will deprecating [[Github]] feature. I will need to look to a different application. That sucks.
-		- Transferred my [[Logseq]] Matrix into [[Roam Research]].
-		- I have not read anything this past few months. I have a lot of backlog of [[Books]] to read.
-		- Installed [[Lux]], a dark mode custom css theme.
-		- ^^One of the theories that gives great insight on the first question—how to be sure we find happiness in our careers—is from [[Frederick Herzberg]], who asserts that the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements.^^ #quotes #career
-			- from [[How Will You Measure Your Life]].
-		- We got curtains from [[Lazada]].
-			- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
-		- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
-	- [[November 27th, 2021]]
-	  collapsed:: true
-		- DONE Visit Pulilan #family
-		- Transferred my [[Logseq]] Matrix into [[Roam Research]].
-		- I have not read anything this past few months. I have a lot of backlog of [[Books]] to read.
-		- Installed [[Lux]], a dark mode custom css theme.
-		- ^^One of the theories that gives great insight on the first question—how to be sure we find happiness in our careers—is from [[Frederick Herzberg]], who asserts that the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements.^^ #quotes #career
-			- from [[How Will You Measure Your Life]].
-		- We got curtains from [[Lazada]].
-			- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
-		- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
-	- [[November 28th, 2021]]
-	  collapsed:: true
-		- 16:41 Good afternoon.
-		- We finally bought a sofa. It will likely be delivered tomorrow. We chose a brown colored sectional sofa. It'll cost nine thousand pesos including the delivery fee.
-			- This is huge as I feel sofa will be used everyday and having one is such a quality of life improvement.
-		- My father has some eye injuries probably due to the ceiling installation. I hope they'get it checked. I gave one thousand pesos. Hope it won't get worse.
-		- We also gave two thousand pesos to Angel's parents.
-		- I feel good. A little sleepy though.
-		- We forgot our external hard drive in Angel's bedroom.
-	- [[Dec 18th, 2021]]
-	  collapsed:: true
-		- My theme in [[Logseq]] is more beautiful than the one in [[Roam Research]]. It's just sad that the support for [[Github]] will be deprecated. But the desktop application is not ready. It's still in beta. I think I can still continue using this and then just download the Github file and put in the [[Google Drive]] folder.
-		- Found this topic about [[building serendipity]]
-	- [[Dec 19th, 2021]]
-	  collapsed:: true
-		- Good morning.
-		- I woke up late today, it was raining the whole night and it was cold. It's great to stay in the bed a little longer.
-			- We had a great breakfast. [[Angel]] tried cooking pesto. It's kinda good but we forgot the cheese. It would have been better if we use a food processor or a mortar/pestle.
-		- I've been reading the book called [[The Stargazey]] by [[Martha Grimes]].
-			- I've read until the sixth chapter. I've tried reading it a couple of times before but it never clicked but I kinda like it now.
-		- I'll relax today. I'll read a book and watch some vidoes.
-		-
-		-
-		-
+	- [[November 2021]]
+		- [[Nov 20th, 2021]]
+		  collapsed:: true
+			- 11:21 Good morning.
+			- I am trying to see if I can turn this to something like [[Dynalist]]
+			- I won't be using the daily notes but instead I'll just write here in what I call Matrix. I'll probably change the name too.
+			- One advantage here is that the notes will be saved in [[Github]] and I can just clone it later in my laptop.
+		- [[Nov 22nd, 2021]]
+		  collapsed:: true
+			- 10.45 We we're busy yesterday. We bought some curtain and we will try to install them today.
+			- I am little slow today.
+			- It seems my father joined a BBM motorcade.
+			- 11.27 I am currently downloading
+				- [[Cowboy Bebop]] #tvshow
+				- [[Black Sails]] #tvshow
+		- [[Nov 23rd, 2021]]
+		  collapsed:: true
+			- 06.47 Good morning.
+			- ^^“Was this the inevitable end? Were you just a passenger? Did your life just happen to you, or did you choose it?” - William, [[Westworld]]^^ #quotes #life
+			- I am happy with how the curtain room divider turned out. We just need a couple more things and the house will be homey.
+			- Sofas is a priority. Something to sit on during the day and not stay on the bed all the time.
+			- 07:05 I really am liking [[Logseq]] right now. I think I'll use this instead of [[Dynalist]].
+			- I need to complete a lot of records for yesterday's production.
+				- Changed the theme. I am liking the brown color.
+			- 10:45 Feeling good listening to a funky songs.
+			- So far I finished ninety records. Not bad really. considering I only worked half day yesterday.
+			- 11:55 Finished one hundred ten records for yesterday.
+			- 15:05 Took a nap. I just got up. Pretty good sleep though.
+			- I just read a comment in [[Reddit]] that what I am doing right now is just writing ideas/brainstorming and not actual note taking/learning.
+				- I think he has a point as I am pretty much just logging my thoughts. As of right now there's not much value in this.
+			- [[Angel]]  bought curtains and wallpaper in Lazada. Next we will try to buy a sofa and either rugs or linoleum.
+				- We are trying to be cost efficient in trying to furnish our home.
+			- TODO Visit mother's lot in Bataan #family
+			- TODO Funds for lot measurement and land titling. #family #finance
+			- Downloaded [[Spiderman 2]]
+		- [[Nov 24th, 2021]]
+		  collapsed:: true
+			- 07:36 I woke up a little late again this morning. I had a good sleep but I woke up earlier with dream of something I am not sure happened in real life.
+				- I keep having dreams like this.
+			- Finished yesterday's production with one hundred fourteen but [[Cons]] qa'ed me this morning and I have not dispatched at least twenty records.
+			- DONE Go home to Pulilan [[Nov 27th, 2021]] #family
+		- [[Nov 25th, 2021]]
+		  collapsed:: true
+			- 08:19 Good morning.
+			- Moved the metal shelf and the position of the TV. Let's see how it looks later.
+			- The wallpaper that [[Angel]] ordered was delivery earlier. We will try to install it this afternoon.
+				- 16:30 Angel is now putting masking tape to the gaps and the rivet heads.
+				- It looks like we need to install the wallpaper twice so that the underlying tape won't show.
+		- [[Nov 26th, 2021]]
+		  collapsed:: true
+			- It looks like [[Logseq]] will deprecating [[Github]] feature. I will need to look to a different application. That sucks.
+			- Transferred my [[Logseq]] Matrix into [[Roam Research]].
+			- I have not read anything this past few months. I have a lot of backlog of [[Books]] to read.
+			- Installed [[Lux]], a dark mode custom css theme.
+			- ^^One of the theories that gives great insight on the first question—how to be sure we find happiness in our careers—is from [[Frederick Herzberg]], who asserts that the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements.^^ #quotes #career
+				- from [[How Will You Measure Your Life]].
+			- We got curtains from [[Lazada]].
+				- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
+			- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
+		- [[November 27th, 2021]]
+		  collapsed:: true
+			- DONE Visit Pulilan #family
+			- Transferred my [[Logseq]] Matrix into [[Roam Research]].
+			- I have not read anything this past few months. I have a lot of backlog of [[Books]] to read.
+			- Installed [[Lux]], a dark mode custom css theme.
+			- ^^One of the theories that gives great insight on the first question—how to be sure we find happiness in our careers—is from [[Frederick Herzberg]], who asserts that the powerful motivator in our lives isn’t money; it’s the opportunity to learn, grow in responsibilities, contribute to others, and be recognized for achievements.^^ #quotes #career
+				- from [[How Will You Measure Your Life]].
+			- We got curtains from [[Lazada]].
+				- It was delivered at our gate. That's awesome. It happened three times already and I think the more we shop online the easier it'll get.
+			- Finished yesterday's production with one hundred eight. Thanks to [[Angel]], she helped me a lot this past two days.
+		- [[November 28th, 2021]]
+		  collapsed:: true
+			- 16:41 Good afternoon.
+			- We finally bought a sofa. It will likely be delivered tomorrow. We chose a brown colored sectional sofa. It'll cost nine thousand pesos including the delivery fee.
+				- This is huge as I feel sofa will be used everyday and having one is such a quality of life improvement.
+			- My father has some eye injuries probably due to the ceiling installation. I hope they'get it checked. I gave one thousand pesos. Hope it won't get worse.
+			- We also gave two thousand pesos to Angel's parents.
+			- I feel good. A little sleepy though.
+			- We forgot our external hard drive in Angel's bedroom.
+	- [[December 2021]]
+		- [[Dec 18th, 2021]]
+		  collapsed:: true
+			- My theme in [[Logseq]] is more beautiful than the one in [[Roam Research]]. It's just sad that the support for [[Github]] will be deprecated. But the desktop application is not ready. It's still in beta. I think I can still continue using this and then just download the Github file and put in the [[Google Drive]] folder.
+			- Found this topic about [[building serendipity]]
+		- [[Dec 19th, 2021]]
+		  collapsed:: true
+			- Good morning.
+			- I woke up late today, it was raining the whole night and it was cold. It's great to stay in the bed a little longer.
+				- We had a great breakfast. [[Angel]] tried cooking pesto. It's kinda good but we forgot the cheese. It would have been better if we use a food processor or a mortar/pestle.
+			- I've been reading the book called [[The Stargazey]] by [[Martha Grimes]].
+				- I've read until the sixth chapter. I've tried reading it a couple of times before but it never clicked but I kinda like it now.
+			- I'll relax today. I'll read a book and watch some vidoes.
+			-
+			-
+			-
 - [[2022]]
 	- [[January 2022]]
 		- [[Jan 5th, 2022]]
 			- Just got back from the market.
 			- My laptop is slow. There's a delay when I type. Some letters are left out.
 			- I'm having trouble upgrading [[EndeavorOS]] and the three [[AUR]] packages. I'm thinking it might be related to the slowness of the laptop.
+			- Fixed my issues with [[Logseq]]. I just logged out and logged back in.
+			- Took a shower this noon. I am not feeling well. I think I'll have a fever soon.
+			-
 			-
