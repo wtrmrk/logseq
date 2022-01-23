@@ -102,5 +102,9 @@
 			- I'm having trouble upgrading [[EndeavorOS]] and the three [[AUR]] packages. I'm thinking it might be related to the slowness of the laptop.
 			- Fixed my issues with [[Logseq]]. I just logged out and logged back in.
 			- Took a shower this noon. I am not feeling well. I think I'll have a fever soon.
+		- [[Jan 23rd, 2022]]
+			- Good afternoon.
+			-
+			-
 			-
 			-
