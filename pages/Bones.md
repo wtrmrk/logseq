@@ -96,6 +96,7 @@
 			-
 - [[2022]]
 	- [[January 2022]]
+	  collapsed:: true
 		- [[Jan 5th, 2022]]
 			- Just got back from the market.
 			- My laptop is slow. There's a delay when I type. Some letters are left out.
@@ -108,3 +109,9 @@
 			-
 			-
 			-
+	- [[February 2022]]
+		- [[Feb 17th, 2022]]
+			- 4:48 pm Good afternoon.
+			- Check the books here later
+				- [Recommendation r/fantasy](https://www.reddit.com/r/Fantasy/comments/srfe9q/what_is_the_best_book_published_in_the_last_ten/)
+				-
