@@ -110,8 +110,26 @@
 			-
 			-
 	- [[February 2022]]
+	  collapsed:: true
 		- [[Feb 17th, 2022]]
 			- 4:48 pm Good afternoon.
 			- Check the books here later
+			  collapsed:: true
 				- [Recommendation r/fantasy](https://www.reddit.com/r/Fantasy/comments/srfe9q/what_is_the_best_book_published_in_the_last_ten/)
+		- [[Feb 18th, 2022]]
+			- 8:55 am Good morning.
+			- This past few days have been a disaster. Went from completing 150 records to missing the 1:00 pm deadline.
+			- [Ali Abdal's 7 Side Hustle You Can Start in  2022]([https://www.youtube.com/watch?v=4V2ZwgJw62I])
+				- Website design
+				- Onling tutoring
+				- Video editing
+				- Social media consulting
+		-
+			-
 				-
+				-
+	- [[March 2022]]
+		- [[Mar 2nd, 2022]]
+			- Good afternoon.
+			- Just saw another post about using plain text files.
+			-
