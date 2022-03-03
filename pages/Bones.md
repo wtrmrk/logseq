@@ -132,4 +132,10 @@
 		- [[Mar 2nd, 2022]]
 			- Good afternoon.
 			- Just saw another post about using plain text files.
+		- [[Mar 3rd, 2022]]
+			- DONE Fix the tarpaulin at the dirty kitchen.
+			- I need to replace the tarpaulin at the dirty kitchen.
+			- Switching jobs should be done after this year. I will be receiving my ten year loyalty bonus.
+			-
+			-
 			-
