@@ -141,7 +141,7 @@
 			- Just opened my [[Airtable]] account and I would like to use it.
 		- [[Mar 10th, 2022]]
 			- Good afternoon.
-			- Saw a video about oscillating tool. I think it'll be the first tool I'll buy.
+			- Saw a video about oscillating tool. I think it'll be the first tool I'll buy.d
 			- I'm slow today. I finished one hundred eleven records for yesterday.
 			- 7:35 pm Just finished with fifty seven records. Need to be more efficient.
 		- [[Mar 11th, 2022]]
@@ -149,9 +149,15 @@
 			- Loved the upbeat music that I am listening to right now.
 			- Completed thirteen records. Yeah!
 			- Signed up for two online games
+			  collapsed:: true
 				- krunker.io
 				- venge.io
 				- http://adarkroom.doublespeakgames.com/
 				- https://penrose.doublespeakgames.com/?utm_source=adarkroom&utm_medium=crosspromote&utm_campaign=event
+				- https://www.reddit.com/r/incremental_games/comments/s2a00x/best_of_2021_results/
+				- https://gidd.io
+			- Online daw
+				- https://www.audiotool.com/
+			-
 				-
 			-
