@@ -149,7 +149,6 @@
 			- Loved the upbeat music that I am listening to right now.
 			- Completed thirteen records. Yeah!
 			- Signed up for two online games
-			  collapsed:: true
 				- krunker.io
 				- venge.io
 				- http://adarkroom.doublespeakgames.com/
@@ -159,6 +158,11 @@
 			- Online daw
 				- https://www.audiotool.com/
 				- https://soundation.com/
+		- [[Mar 13th, 2022]]
+			- Good evening.
+			- This afternoon I took the Excel for Data Analysis course in edX. Hope I can finish it. And if I can afford it get a certificate.
+			- After that I'll take SQL. And with those two I feel I can start working as a data analysts or data administrators.
+			- The goal is to make a switch next year. I've spent ten years with DGP. It's been good but I feel I could explore more opportunities while I can still come back to DGP if things don't work out.
+			- Finished ten records today. A little low but it's the weekend. I just need to make sure I am focused tomorrow.
 			-
-				-
 			-
