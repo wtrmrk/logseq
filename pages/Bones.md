@@ -164,5 +164,13 @@
 			- After that I'll take SQL. And with those two I feel I can start working as a data analysts or data administrators.
 			- The goal is to make a switch next year. I've spent ten years with DGP. It's been good but I feel I could explore more opportunities while I can still come back to DGP if things don't work out.
 			- Finished ten records today. A little low but it's the weekend. I just need to make sure I am focused tomorrow.
+		- [[Mar 14th, 2022]]
+			- It's so hot again.
+		- [[Mar 18th, 2022]]
+			- 14:42 Good afternoon.
+			- What's my hobby?
+			- I would like to try build a solar oven.
+				- I basically just need foils.
+			-
 			-
 			-
