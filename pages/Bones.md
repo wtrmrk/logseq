@@ -129,7 +129,9 @@
 				-
 				-
 	- [[March 2022]]
+	  collapsed:: true
 		- [[Mar 2nd, 2022]]
+		  collapsed:: true
 			- Good afternoon.
 			- Just saw another post about using plain text files.
 		- [[Mar 3rd, 2022]]
@@ -171,6 +173,23 @@
 			- What's my hobby?
 			- I would like to try build a solar oven.
 				- I basically just need foils.
-			-
-			-
+			- 18:55 Completed seventy five records.
+		- [[Mar 19th, 2022]]
+		- [[Mar 21st, 2022]]
+			- DONE Complete forty five records.
+			- DONE Complete one hundred records.
+			- [Custom Ubuntu minimal install](https://hakerdefo.github.io/custom-ubuntu-install/).
+		- [[Mar 22nd, 2022]]
+			- 15:23 Good afternoon.
+			- Installed Fedora on my laptop. I'm updating and following some after install tips.
+		- [[Mar 23rd, 2022]]
+			- 08:57 Good morning.
+			- I've been using the laptop since this morning. Switched to the office pc after ten am.
+			- I feel gnome is a lot lighter with EndeavourOS.
+		- [[Mar 24th, 2022]]
+			- DONE Bimonthly meeting
+		- [[Mar 27th, 2022]]
+	- [[April 2022]]
+		- [[Apr 6th, 2022]]
+		- [[Apr 7th, 2022]]
 			-
