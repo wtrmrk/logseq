@@ -199,7 +199,8 @@
 	- [[July 2022]]
 		- [[Jul 2nd, 2022]]
 		- [[Jul 15th, 2022]]
-			- I took a leave for today. Still need to finish sixty three records and the internet is acting up again.
+			- I took a leave for today. Still need to finish sixty three records and the internet is acting up again. 
+			  collapsed:: true
 				- Same thing everyday the last five days.
 				-
 		- [[Jully 22th, 2022]]
