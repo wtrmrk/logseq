@@ -31,7 +31,7 @@
 				- I think he has a point as I am pretty much just logging my thoughts. As of right now there's not much value in this.
 			- [[Angel]]  bought curtains and wallpaper in Lazada. Next we will try to buy a sofa and either rugs or linoleum.
 				- We are trying to be cost efficient in trying to furnish our home.
-			- TODO Visit mother's lot in Bataan #family
+			- DONE Visit mother's lot in Bataan #family
 			- TODO Funds for lot measurement and land titling. #family #finance
 			- Downloaded [[Spiderman 2]]
 		- [[Nov 24th, 2021]]
@@ -190,6 +190,18 @@
 			- DONE Bimonthly meeting
 		- [[Mar 27th, 2022]]
 	- [[April 2022]]
+	  collapsed:: true
 		- [[Apr 6th, 2022]]
 		- [[Apr 7th, 2022]]
-			-
+			- 17:10 Good afternoon.
+			- There was a good stretch earlier but I got problem connecting to Gale. It's working now.
+			- 17:14 Still having problem with the connection to Gale.
+	- [[July 2022]]
+		- [[Jul 2nd, 2022]]
+		- [[Jul 15th, 2022]]
+			- I took a leave for today. Still need to finish sixty three records and the internet is acting up again.
+				- Same thing everyday the last five days.
+				-
+		- [[Jully 22th, 2022]]
+	-
+-
